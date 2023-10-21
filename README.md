@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarthak070103
+- 👋 Hi, I’m Sarthak Tiwari
 - 👀 I’m interested in ..coding
 - 🌱 I’m currently learning ...computer science engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sarootiwari@gmail.com
+- 📫 How to reach me ...stcodes0101@gmail.com
 
 
 
